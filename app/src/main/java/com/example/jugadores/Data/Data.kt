@@ -6,5 +6,7 @@ data class Data(
     val Nacionalidad: String,
     val Edad: String,
     val Posicion: String,
-    val imagen: String
+    val imagen: String,
+    val info: String,
+    val portada: String
     )
